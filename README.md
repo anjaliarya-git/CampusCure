@@ -1,0 +1,2 @@
+# CampusCure
+sustaintech hackathon
